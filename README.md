@@ -1,2 +1,2 @@
 # BIG-HOMEWORK
-From the course C language programming.
+From the 2023 Emergency Management University C Language Programming Course.
